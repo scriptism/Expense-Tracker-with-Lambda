@@ -1,4 +1,4 @@
-# Scriptism – Simple
+# Scriptism – Python
 
 Expense-Tracker CLI
 A simple, zero-dependency command-line expense tracker written in Python 3.
